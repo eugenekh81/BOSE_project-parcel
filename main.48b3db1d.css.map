@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles\\main.scss"],"names":[],"mappings":"AAEA;EACE","file":"main.48b3db1d.css","sourceRoot":"..\\src","sourcesContent":["$alert-color: red;\r\n\r\nbody {\r\n  margin: 0;\r\n}\r\n"]}
